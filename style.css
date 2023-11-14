@@ -2,10 +2,10 @@ body{
 background-color: rgb(114, 184, 250);
 text-align: center;
 }
-h1{
+#h1{
     color: rgb(255, 55, 105));
 }
-p{
+#p{
     color: rgb(238, 222, 151);
     
 }
